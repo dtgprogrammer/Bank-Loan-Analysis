@@ -7,7 +7,7 @@ This project analyzes bank loan data using Power BI for dashboard visualization 
 
 ## 🛠️ Tools Used
 - **Power BI Desktop** – Dashboard creation and report visuals  
-- **PostgreSQL** – SQL queries for data manipulation  
+- **MySQL** – SQL queries for data manipulation  
 - **MS Excel/CSV** – Raw data preprocessing
 
 ---
@@ -40,5 +40,5 @@ This project analyzes bank loan data using Power BI for dashboard visualization 
 ---
 
 ## 📬 Contact
-For any queries, reach out via [Your Email] or [LinkedIn Profile].
+For any queries, reach out via [devawasthi2020@gmail.com]
 
