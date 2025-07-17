@@ -29,14 +29,16 @@ This project analyzes bank loan data using Power BI for dashboard visualization 
 
 ## 📊 Power BI Dashboard Screenshots
 
-### 🖼️ Summary
+### 📌 Summary
+![Details](Dashboard_SS3.jpg)
+
+### 🖼️ Overview
 ![Summary](Dashboard_SS1.jpg)
 
-### 📈 Overview
+### 📈 Details
 ![Overview](Dashboard_SS2.jpg)
 
-### 📌 Details
-![Details](Dashboard_SS3.jpg)
+
 
 
 ---
